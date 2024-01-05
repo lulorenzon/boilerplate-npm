@@ -1,7 +1,15 @@
 {
-	"name": "fcc-learn-npm-package-json",
+  "name": "fcc-learn-npm-package-json",
+  "author": "luana",
+  "description": "first project",
+  "license": "MIT",
+  "version": "1.2.0",
+  "keywords": [ "descriptive", "freecodecamp", "node.js" ],
+
 	"dependencies": {
-		"express": "^4.14.0"
+    "package-name": "@freecodecamp/example",
+    "express": "~1.1.0"
+
 	},
 	"main": "server.js",
 	"scripts": {
